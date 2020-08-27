@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/anuraghazra/github-readme-stats
 -->
+[![Youngbo's github stats](https://github-readme-stats.vercel.app/api?username=yangbo568969859&show_icons=true)](https://github.com/yangbo568969859/yangbo568969859)
+
+- 🔭 I’m currently working on React、Vue
+- 🌱 I’m  Vue、Flutter
+- 👯 I’m active on [掘金](https://juejin.im/user/2594503171260199)
+- 💬 Ask me about React Vue Flutter
